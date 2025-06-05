@@ -1,6 +1,6 @@
 # Qtile.Manjaro.Files
 
-> My Gruvbox themed openSUSE desktop. Yet with eye candy Wayland window tiling compositor, SwayFX.
+> My Nord themed Manjaro desktop. Made with self-proclaimed hackable tiling window-manager, KUTIL.
 
 ![screenshot](./src/SS/QTileDE1.png)
 
