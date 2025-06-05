@@ -2,6 +2,6 @@
 
 > My Gruvbox themed openSUSE desktop. Yet with eye candy Wayland window tiling compositor, SwayFX.
 
-![screenshot](./src/SS/)
+![screenshot](./src/SS/QTileDE1.png)
 
 ---
