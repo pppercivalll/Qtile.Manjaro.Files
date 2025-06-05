@@ -1,0 +1,28 @@
+[global]
+frame_color = "#89b4fa"
+separator_color= frame
+scale = 1.3
+icon_corner_radius = 2
+font = "Jetbrains Mono Nerd Font 12"
+icon_theme = "Nordic-darker"
+origin = top-right
+offset = 40
+frame_width = 3
+corners = all
+corner_radius = 5
+enable_markup = yes
+transparency = 0
+
+[urgency_low]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[urgency_normal]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+[urgency_critical]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+frame_color = "#fab387"
+
