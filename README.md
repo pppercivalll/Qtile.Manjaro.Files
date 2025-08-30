@@ -5,7 +5,7 @@
 ![screenshot](./src/SS/QTileDE1.png)
 
 ---
-## 📦 Components
+## Components
 
 | Component | Description |
 |-----------|-------------|
@@ -19,7 +19,7 @@
 | GTK       | Configuration for GTK-3 themes and icons to ensure a consistent look and feel. |
 
 ---
-## 🧰 System Info
+## System Info
 
 | Type             | Details                                       |
 |------------------|-----------------------------------------------|
